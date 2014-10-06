@@ -10,9 +10,9 @@ Objetivos
 
 ToDo (preeval)
 --------------
-* [ ] Crear esqueleto django.
-* [ ] Crear modelos.
-* [ ] Añadir interfaz admin a los modelos.
+* [X] Crear esqueleto django.
+* [X] Crear modelos.
+* [X] Añadir interfaz admin a los modelos.
 * [ ] Modificar interfaz admin de datos para carga masiva desde Séneca.
 * [ ] Diseñar estructura url y vistas asociadas.
 * [ ] Crear la estructura url y las vistas asociadas.
